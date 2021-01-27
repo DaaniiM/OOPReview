@@ -23,4 +23,5 @@ console.log(tienda.getLocation());
 console.log(tienda.getMobiles());
 console.log(tienda.getTotalPrice());
 console.log("--------------------");
-tienda.totalPriceCalculation();
+var tienda1 = new mobileLibrary_1.MobileLibrary("Advanced Shop", "Barcelona", allMobiles);
+tienda1.printLibrary();

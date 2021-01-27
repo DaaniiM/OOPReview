@@ -32,5 +32,7 @@ console.log(tienda.getTotalPrice());
 
 console.log("--------------------");
 
-tienda.totalPriceCalculation();
+let tienda1 = new MobileLibrary("Advanced Shop","Barcelona",allMobiles);
+
+tienda1.printLibrary();
 
