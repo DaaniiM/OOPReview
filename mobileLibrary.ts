@@ -14,7 +14,6 @@ export class MobileLibrary{
         this.name = name;
         this.location = location;
         this.mobiles = mobiles;
-        this.totalPrice = this.totalPrice;
 
     }
 
