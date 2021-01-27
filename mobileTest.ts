@@ -31,7 +31,7 @@ allMobile[2].printCaracteristicas();
 
 console.log("--------------------");
 
-function printCaracteristicasAll(allMobile){
+function printCaracteristicasAll(allMobile:Mobile[]){
 
     let i;
 
